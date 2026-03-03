@@ -1,0 +1,53 @@
+Session Number,Lecture Title,Topics
+1,FDSA: Bit Manipulations 1,"Bitwise Operations [AND OR & XOR]
+Basic AND XOR OR Properties
+Negative Numbers
+Ranges
+Importance of Constraints
+Left Shift & Right Shift"
+2,FDSA: Bit Manipulations 2,"Check Bit
+Set Bit
+Flip Bit
+Unset Bit
+Number of Subarrays with OR = 0
+Max AND Pair"
+3,FDSA: Bit Manipulations 3,"Count set bits
+Single Number
+Single Element 2 (Every element 3 times and one unique element)
+Single Number 3 (Every element 2 times and 2 unique elements)"
+4,FDSA: Binary Search 1,"Introduction to Searching
+Search for the element K in sorted array with unique elements.
+Search first & last occurrence of K in sorted array with repeated elements.
+Find a peak element
+Local Minima"
+5,FDSA: Binary Search 2,"Single Number with sorted Array
+Search in Rotated Sorted Array
+Painter's Partition - Find min count of painters
+Square root"
+6,FDSA: Binary Search 3,"Painter's Partition - Find min time to paint
+Aggressive cows - Find max count of cows
+Aggressive cows - Find max possible min distance"
+7,FDSA: Hashing 1,"Introduction to HashMap & it's functions
+Given queries, find frequency of an element
+Introduction to HashSet & it's functions
+No. of Distinct Elements
+Iterate over HashMap & HashSet
+Find any pair (i,j) s.t. A[i] = A[j] & abs(i - j) is minimum"
+8,FDSA: Hashing 2,"Pair sum
+Count of Pair Sum
+Check if there exits a subarray with sum = 0
+Longest Subarray with sum = 0
+Check if there exits a subarray with sum = K"
+9,FDSA: Hashing 3,"Implementation: Hash Function + Collision + Chaining
+Longest Substring Without Repeat
+Length of longest consecutive sequence"
+10,FDSA: Linked List 1,"Introduction + Use of Linked List over array
+Access K'th index node
+Search for element X
+Insert element X at position K
+Delete first occurrence of X"
+11,FDSA: Linked List 2,"Reverse the Linked List
+Reverse the Linked List using Recursion
+Shallow Copy vs Deep Copy
+Deep Copy of Linked List
+Middle Element of List"

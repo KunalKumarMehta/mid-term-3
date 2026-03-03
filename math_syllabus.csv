@@ -1,0 +1,40 @@
+Session No.,Session Title,Topics/Flow,In-class Quizzes
+1,Intro to Probability,"• Why learn Probability in the Analytics context
+• Probability Vocab
+• Limitations in traditional Probability
+• Theoretical vs Empirical Probability","• Possibility vs Probability
+• Random Experiment, Random Variable
+• Sample Space, Event
+• Sets: Union, Intersection, Null
+• Mutually Exclusive vs Independent"
+2,Conditional Probability,"• How new information affects probabilities
+• How to visualize conditional probability","• Conditional Probabiliity
+• Joint Probability
+• Marginal Probability
+• Venn Diagram Approach"
+3,Bayes Theorem,"• The idea of updating probabilities 
+• What is the Bayes approach and formula
+• Situation where Bayes approach can be used","• Bayes' Theorem and Bayes' Formula
+• Tree Diagram Approach
+• Prior Probability and Posterior Probability"
+4,Problem Solving - 1,• Additional Problems using concepts learnt so far,• NA
+5,Intro to Statistics,"• Why learn Statistics
+• Descriptive Statistics vs Inferential Statistics
+• Central Tendency, Dispersion, Percentile ","• Measures of Central Tendency
+• Measures of Spread
+• Percentile and Quantile"
+6,Probability Distribution,"• What does it mean for Proability to be distributed
+• Making predictions about unequal distributions","• Uniform Distributions
+• Unequal Probability Distributions
+• Bernoulli Trials
+• Bell Curves
+• Probability Mass Function
+• Cumulative Distribution Function"
+7,Binomial Distribution,"Note: the topics initially mapped to this session are now merged with Session 6
+
+Session 7 as per this list is <CANCELLED>",-
+8,Normal Distribution,"• Understanding the ideal normal distribution
+• Making predictions from this ideal distribution
+• Will I even see such distributions in real-life?","• Normal Distribution, Gaussian Distribution
+• 68 / 95 / 99.7 rule
+• CDF and PPF"

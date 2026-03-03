@@ -1,0 +1,175 @@
+Problem Description
+
+Given two binary strings A and B. Return their sum (also a binary string).
+
+
+Problem Constraints
+
+1 <= length of A <= 105
+
+1 <= length of B <= 105
+
+A and B are binary strings
+
+
+
+Input Format
+
+The two argument A and B are binary strings.
+
+
+
+Output Format
+
+Return a binary string denoting the sum of A and B
+
+
+
+Example Input
+
+Input 1:
+A = "100"
+B = "11"
+Input 2:
+A = "110"
+B = "10"
+
+
+Example Output
+
+Output 1:
+"111"
+Output 2:
+"1000"
+
+
+Example Explanation
+
+For Input 1:
+The sum of 100 and 11 is 111.
+For Input 2:
+ 
+The sum of 110 and 10 is 1000.
+
+
+public class Solution {
+    public String addBinary(String A, String B) {
+    }
+}
+
+
+Problem Description
+
+Given an integer A, find and return the Ath magic number.
+
+A magic number is defined as a number that can be expressed as a power of 5 or a sum of unique powers of 5.
+
+First few magic numbers are 5, 25, 30(5 + 25), 125, 130(125 + 5), ….
+
+
+
+Problem Constraints
+
+1 <= A <= 5000
+
+
+
+Input Format
+
+The only argument given is integer A.
+
+
+
+Output Format
+
+Return the Ath magic number.
+
+
+
+Example Input
+
+Example Input 1:
+
+ A = 3
+Example Input 2:
+
+ A = 10
+
+
+Example Output
+
+Example Output 1:
+
+ 30
+Example Output 2:
+
+ 650
+
+
+Example Explanation
+
+Explanation 1:
+
+ Magic Numbers in increasing order are [5, 25, 30, 125, 130, ...]
+ 3rd element in this is 30
+Explanation 2:
+
+ In the sequence shown in explanation 1, 10th element will be 650.
+
+public class Solution {
+    public int solve(int A) {
+    }
+}
+
+Problem Description
+
+Given an integer A.
+Two numbers, X and Y, are defined as follows:
+
+X is the greatest number smaller than A such that the XOR sum of X and A is the same as the sum of X and A.
+Y is the smallest number greater than A, such that the XOR sum of Y and A is the same as the sum of Y and A.
+Find and return the XOR of X and Y.
+
+NOTE 1: XOR of X and Y is defined as X ^ Y where '^' is the BITWISE XOR operator.
+
+NOTE 2: Your code will be run against a maximum of 100000 Test Cases.
+
+
+
+Problem Constraints
+
+1 <= A <= 109
+
+
+
+Input Format
+
+First and only argument is an integer A.
+
+
+
+Output Format
+
+Return an integer denoting the XOR of X and Y.
+
+
+
+Example Input
+
+A = 5
+
+
+Example Output
+
+10
+
+
+Example Explanation
+
+The value of X will be 2 and the value of Y will be 8. The XOR of 2 and 8 is 10.
+
+
+public class Solution {
+    public int solve(int A) {
+    }
+}
